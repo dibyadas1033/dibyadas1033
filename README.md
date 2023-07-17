@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dibyadas1033
 - 👀 I’m interested in web development.
-- 🌱 I’m currently solving Dsa
 - 💞️ I’m looking to collaborate on beginer projects on web dev
 - 📫 How to reach me ...
 

@@ -24,7 +24,7 @@ Alongside core backend work, I explore **industrial and AI-assisted systems**, w
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
 - 🔭 I’m currently working on SLA-BackendEngine and Escalation
   
@@ -32,7 +32,7 @@ Alongside core backend work, I explore **industrial and AI-assisted systems**, w
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
 
 
-</td></tr>
+</tr>
 </table>  
 
 <br/>  

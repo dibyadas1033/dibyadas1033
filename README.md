@@ -29,7 +29,7 @@ Alongside core backend work, I explore **industrial and AI-assisted systems**, w
 - 🔭 I’m currently working on SLA-BackendEngine and Escalation
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Docker and Kubernetes  
 
 
 </tr>
